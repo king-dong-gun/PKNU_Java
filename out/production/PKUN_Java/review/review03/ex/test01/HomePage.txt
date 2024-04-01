@@ -1,0 +1,5 @@
+=======회원가입정보======
+id >> good, pswd >> job
+=======로그인정보======id >> hi, pswd >> hi
+=======회원가입정보======
+id >> hello, pswd >> heelo
